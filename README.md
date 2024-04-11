@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Wq8sCObG2ruGNlkRyQTsf2CYfO2ArQQwEsT8h8W4bQ&s)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Wq8sCObG2ruGNlkRyQTsf2CYfO2ArQQwEsT8h8W4bQ&s" width="1200">
 <h1 align="center">Hi 👋, I'm Karthika V</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHG4qzij0jEMewa5McV3OWbjFlFRUityCpZRAIYupjaQ&s">
