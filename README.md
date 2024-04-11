@@ -1,10 +1,8 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Wq8sCObG2ruGNlkRyQTsf2CYfO2ArQQwEsT8h8W4bQ&s))
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Wq8sCObG2ruGNlkRyQTsf2CYfO2ArQQwEsT8h8W4bQ&s)
 <h1 align="center">Hi 👋, I'm Karthika V</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=karthika448&label=Profile%20views&color=0e75b6&style=flat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPwrk9waUs4Hx-RsgNRN2sQmVYFAK8xtuplqKKijcc0w&s)" alt="karthika448" /> </p>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHG4qzij0jEMewa5McV3OWbjFlFRUityCpZRAIYupjaQ&s">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthika448" alt="karthika448" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning projects and Recommendation Engines**
 
