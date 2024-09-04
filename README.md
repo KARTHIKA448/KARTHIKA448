@@ -1,16 +1,15 @@
+
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Welcome Animation" width="600"/>
 </p>
 <h1 align="center">Hi 👋, I'm Karthika V</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-</p>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 <p align="center">
-
 - 🔭 I’m currently working on **Machine Learning projects,Recommendation Engines,Deep Learning Projects,NLP Projects**
-
+</p>
+<p align="center">
 - 💬 Ask me about **Data cleaning, Data analysis, Data Visualizations,Model Creation,Machine Learning,Deep Learninig**
-
+</p>
 <p align="center">
   📫 Reach out to me:
   <br/>
@@ -21,6 +20,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+</p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+<p align="center">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
