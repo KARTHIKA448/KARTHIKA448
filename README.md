@@ -22,7 +22,6 @@
 </p>
 
 </p>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 <p align="center">
 
 
