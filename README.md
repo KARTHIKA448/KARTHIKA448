@@ -4,12 +4,11 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Welcome Animation" width="600"/>
 </p>
 
-<p align="center">
+
 - 🔭 I’m currently working on **Machine Learning projects,Recommendation Engines,Deep Learning Projects,NLP Projects**
-</p>
-<p align="center">
+
 - 💬 Ask me about **Data cleaning, Data analysis, Data Visualizations,Model Creation,Machine Learning,Deep Learninig**
-</p>
+
 <p align="center">
   📫 Reach out to me:
   <br/>
