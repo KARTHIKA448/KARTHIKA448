@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Welcome Animation" width="900"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Welcome Animation" width="800"/>
 </p>
 <h1 align="center">Hi 👋, I'm Karthika V</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
-- 🔭 I’m currently working on *Machine Learning projects and Recommendation Engines*
+- 🔭 I’m currently working on **Machine Learning projects and Recommendation Engines**
 
-- 🌱 I’m currently learning *Machine Learning, Deep Learning*
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
-- 💬 Ask me about *Data cleaning, Data analysis, Data Visualizations,Model Creation,Machine Learning*
+- 💬 Ask me about **Data cleaning, Data analysis, Data Visualizations,Model Creation,Machine Learning**
 
 <p align="center">
   📫 Reach out to me:
